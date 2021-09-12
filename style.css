@@ -1,0 +1,52 @@
+body
+{
+    background-color:beige;
+    text-align: center ;
+
+}
+
+
+
+.header_div
+{
+    background-color: beige;
+
+}
+
+.header_div p
+{
+    font-size:larger;
+    font-family: "lobster", cursive;
+    font-weight:lighter ;
+    color:black;
+    letter-spacing:2px;
+
+}
+
+.main_div button{
+
+    font-size: medium ;
+    font-family: "lobster", cursive;
+    font-weight: lighter;
+    color:black;
+    background-color: blanchedalmond;
+    text-align:center;
+    margin-top:30px;
+    width:130px;
+}
+
+.copy_right_footer
+{
+    font-size: medium;
+    font-family: "lobster", cursive ;
+    font-weight: lighter;
+    color:black;
+    text-align: center;
+    position:fixed;
+    background-color:beige;
+    line-height:3;
+    width:100%;
+    text-shadow:5px 5px 5px rgb(0,0,0);
+    
+
+}
